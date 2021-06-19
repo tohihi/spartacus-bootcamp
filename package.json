@@ -38,7 +38,7 @@
     "@spartacus/storefront": "^1.4.0",
     "@spartacus/styles": "^1.4.0",
     "bootstrap": "^4.3.1",
-    "core-js": "^3.2.1",
+    "core-js": "^3.13.0",
     "i18next": "^17.0.13",
     "i18next-xhr-backend": "^3.1.2",
     "ngx-infinite-scroll": "^8.0.1",
