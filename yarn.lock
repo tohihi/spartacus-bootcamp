@@ -1029,10 +1029,10 @@
   dependencies:
     tslib "^1.9.0"
 
-"@spartacus/core@^1.4.0":
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/@spartacus/core/-/core-1.4.0.tgz#83e68335af5c2cf46224a372f2e004ed1ca5ebb0"
-  integrity sha512-1fK7f2sohuHvxjHP1dWHJcLvFGDhsYPLCJioQ/oUS3bR3mUHEO8lQRu1Qyor8+Z4tfFcr92ecJR02E/+BUFZAg==
+"@spartacus/core@^1.5.9":
+  version "1.5.9"
+  resolved "https://registry.yarnpkg.com/@spartacus/core/-/core-1.5.9.tgz#1411a9726a4266aa946c7cdfb45678992aade536"
+  integrity sha512-15WP9C8059Rv1e3YQalhMPIZpAd88u5L19yx2yQs4V9nXXyRJ/bX3evz7hrp8kOK8D2nusvROI5M0VEhDEAuBA==
   dependencies:
     tslib "^1.9.0"
 
