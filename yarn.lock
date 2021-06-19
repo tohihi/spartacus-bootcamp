@@ -1036,10 +1036,10 @@
   dependencies:
     tslib "^1.9.0"
 
-"@spartacus/storefront@^1.4.0":
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/@spartacus/storefront/-/storefront-1.4.0.tgz#76ae1c2a11ffd067d7aca61ea3cb5f2febceabcf"
-  integrity sha512-yLKx89NXX/slty+GIaxBOw6UBfCiZQCa9z6w1cvSJvHWO4nYdjmNHXr9t2rcJhwmIEGEYTKaBkbd6z/EjyMwuA==
+"@spartacus/storefront@^1.5.9":
+  version "1.5.9"
+  resolved "https://registry.yarnpkg.com/@spartacus/storefront/-/storefront-1.5.9.tgz#0d923509a14332a5e634fdca52e5f112b55a3688"
+  integrity sha512-zo3Z50R09kraDBBhPcXpTZqZr5cadOobgv9M7I/zfxl0L0O7SzGAkvUz0osXFOlEKVPFhtDq5mGwKW6Lsh1uzg==
   dependencies:
     tslib "^1.9.0"
 
