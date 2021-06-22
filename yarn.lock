@@ -1043,10 +1043,10 @@
   dependencies:
     tslib "^1.9.0"
 
-"@spartacus/styles@^1.4.0":
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/@spartacus/styles/-/styles-1.4.0.tgz#35496263e80cf37876737f104d32169d1203d2fd"
-  integrity sha512-k6s1MkIg4F+OA+VFHMJzqMyVUOJQIAQx+5uxnGipMa0aemvp4ChTixLEidkcWsrMBDIK4a/AmOkv/naFSOY8Eg==
+"@spartacus/styles@^1.5.9":
+  version "1.5.9"
+  resolved "https://registry.yarnpkg.com/@spartacus/styles/-/styles-1.5.9.tgz#7793f21fc20f897e750514268dca64ba2fbeb607"
+  integrity sha512-haOt20tAkUJUB8I+gNxDa+3ysU3E8k6RaTlNiy/vGpGyYS+aZ7G5ICJszS/DAii6k5Ls63TkIDHy4S3mujiUcw==
   dependencies:
     hamburgers "^1.1.3"
 
